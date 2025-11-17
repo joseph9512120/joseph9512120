@@ -28,7 +28,7 @@
   <br/>
 </div>
 
-[![Amritansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmritanshRaizada&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=90EE90&area_opacity=0.25&hide_border=true&custom_title=🔥%20Amritansh's%20GitHub%20Contribution%20Graph)](https://github.com/AmritanshRaizada)
+[![Joseph's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmritanshRaizada&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=90EE90&area_opacity=0.25&hide_border=true&custom_title=🔥%20Amritansh's%20GitHub%20Contribution%20Graph)](https://github.com/AmritanshRaizada)
 
 
 
