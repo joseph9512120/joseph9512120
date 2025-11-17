@@ -2,8 +2,8 @@
 <div align="center">
   <br/>
   
-  <h1 style="margin-bottom: 10px;">🔴 Hey there! I'm Amritansh</h1>
-  <p style="font-size: 1.1em; margin-top: 0;"><b>Engineering robust solutions at the intersection of APIs and AI</b></p>
+  <h1 style="margin-bottom: 10px;">🔴 Hey there! I'm Joseph</h1>
+  <p style="font-size: 1.1em; margin-top: 0;"><b>AI Engineer | Senior Full-Stack Developer</b></p>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,aws,kubernetes,docker" title="Core Expertise" />
